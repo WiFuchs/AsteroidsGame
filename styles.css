@@ -21,3 +21,29 @@ footer {
 	font-size: 90%;
 }
 
+#textBox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color: #FFFFFF;
+}
+
+
+.button {
+    border: 1px;
+    border-style: solid;
+    background-image: url('buttonBackground.jpg');
+    background-repeat: repeat-x;
+    height: 20px;
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#replay {
+    display: none;
+}
+
+#play{
+    display: block;
+}

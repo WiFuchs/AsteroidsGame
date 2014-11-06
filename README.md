@@ -21,15 +21,3 @@ Suggested steps to complete this assignment
 12. If you have extra time and are looking for a challenge, you might try to add an animation of "rockets" that appear from the back of the ship when you accelerate
 
 These steps are only a suggestion. Your Asteroids game doesn't have to work or act like any other. Have fun and be creative.
-
-Samples of Student Work
------------------------
-[Vivian](http://vivianlam.github.io/AsteroidsGame/)  
-[Erika](http://bekutaa.github.io/AsteroidsGame/)   
-[Lucy](http://luchen825.github.io/AsteroidsGame/)   
-[Zachary](https://zachooz.github.io/AsteroidsGame/)   
-[Antonio](https://adcarmona.github.io/AsteroidsGame/)   
-[Kirby](http://kichoy.github.io/AsteroidsGame/)   
-[Averal](http://avekan33.github.io/AsteroidsGame/)   
-[Lily](http://magicallilicorn.github.io/AsteroidsGame/)   
-[Calvin](http://icalvin12.github.io/AsteroidsGame/)   
