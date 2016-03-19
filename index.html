@@ -17,9 +17,10 @@
 		</section>
 		<div id="textBox">
 	    	<form id="controls">
+	    		<p>Controls</p>
 	    		Move Up: <input type="text" id="moveUp" size="1" maxlength="1" value="w"><br>
-	    		Move Left: <input type="text" id="moveRight" size="1" maxlength="1" value="d"><br>
-	    		Move Right: <input type="text" id="moveLeft" size="1" maxlength="1" value="a"><br>
+	    		Rotate Clockwise: <input type="text" id="moveRight" size="1" maxlength="1" value="d"><br>
+	    		Rotate Counterclockwise: <input type="text" id="moveLeft" size="1" maxlength="1" value="a"><br>
 	    	</form>
 	    	<from id="difficulty">
 	    		Difficulty: 
@@ -28,8 +29,8 @@
 	    		<input type="radio" name="hardness" id="hard">
 	    		<div class="button" id="play" onclick="determineDifficulty(); passInput('controls');">Start</div>
 	    		<div class="button" id="replay" onclick="restart()">Replay</div>
-	    		<br>
 	    	</form>
+	    	<br>
 	    </div>
 	    <div id='toChange'></div>
 	</body>
